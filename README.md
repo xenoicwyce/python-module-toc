@@ -6,11 +6,26 @@ How to install the packages can be found in their respective homepages/documenta
 | Module name | Description |
 |-------------|-------------|
 | paramiko    | Python implementation of the SSH protocol, interface to connect via SSH. |
+| requests    | HTTP library. |
+
+## Computer Vision / Image Processing / Video Processing
+| Module name | Description |
+|-------------|-------------|
+| cv2 (OpenCV) | Library for computer vision. |
+| moviepy      | Library for video processing. |
+| PIL (Pillow) | Library for image processing. |
 
 ## Cryptography
 | Module name | Description |
 |-------------|-------------|
 | cryptography | Cryptographic recipes and primitives, and some common cryptographic algorithms. |
+
+## Finance / Stocks / Investors Exchange (IEX)
+| Module name | Description |
+|-------------|-------------|
+| iex         | Python wrapper for the IEX API. |
+| iexfinance  | Python SDK for IEX Cloud API. |
+| pyEX        | Python interface to IEX Cloud API. |
 
 ## Graph Theory
 | Module name | Description |
@@ -21,8 +36,8 @@ How to install the packages can be found in their respective homepages/documenta
 ## Graphical User Interface (GUI)
 | Module name | Description |
 |-------------|-------------|
-| tkinter     | Python binding to the Tk GUI toolkit. |
 | PyQt4, PyQt5 | Python binding to the Qt GUI toolkit. |
+| tkinter     | Python binding to the Tk GUI toolkit. |
 | wx (wxPython) | Python wrapper for wxWidgets. |
 
 ## Machine Learning
@@ -42,7 +57,7 @@ How to install the packages can be found in their respective homepages/documenta
 | numpy       | Arrays, matrices, and linear algebra. |
 | pandas      | Data analysis and data manipulation, suitable for data science. |
 | scipy       | Routines for scientific programming, e.g. numerical integration, interpolation, optimization, etc. |
-| sympy       | Symbolic mathematics. |
+| sympy       | Library for symbolic mathematics. |
 
 ## Quantum Computing
 | Module name | Description |
@@ -56,3 +71,9 @@ How to install the packages can be found in their respective homepages/documenta
 | Module name | Description |
 |-------------|-------------|
 | django      | Database-driven web framework. |
+
+## Miscellaneous 
+| Module name | Description |
+|-------------|-------------|
+| pendulum    | Calculations on datetime. |
+| pytest      | Perform tests on the code written. |
