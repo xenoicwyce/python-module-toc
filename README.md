@@ -7,6 +7,11 @@ How to install the packages can be found in their respective homepages/documenta
 |-------------|-------------|
 | paramiko    | Python implementation of the SSH protocol, interface to connect via SSH. |
 
+## Cryptography
+| Module name | Description |
+|-------------|-------------|
+| cryptography | Cryptographic recipes and primitives, and some common cryptographic algorithms. |
+
 ## Graph Theory
 | Module name | Description |
 |-------------|-------------|
