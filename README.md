@@ -16,6 +16,8 @@ How to install the packages can be found in their respective homepages/documenta
 ## Machine Learning
 | Module name | Description |
 |-------------|-------------|
+| autokeras   | A simpler deep learning framework based on Keras. |
+| keras       | A simple deep learning API based on TensorFlow 2.0. |
 | pytorch     | Machine learning library mainly for applications, e.g. computer vision and natural language processing. |
 | sklearn     | Machine learning library for beginners to start their hands on. |
 | tensorflow  | Core machine learning library for building and training neural networks. |
